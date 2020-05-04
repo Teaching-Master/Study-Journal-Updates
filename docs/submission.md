@@ -4,17 +4,12 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-After completing the lesson:
+At the end of the week:
 
-1. Make sure that you have:
-   - Commited your changes to the **{{site.data.assignment.git-curr-branch}}** branch.
-   - Merged the **{{site.data.assignment.git-curr-branch}}** branch into your **master** branch.
-   - Pushed your work to GitHub.
-   - Confirmed that you see your changes on GitHub.
-1. Then, make a copy of the [submission template][copy-template].
-1. Rename the template and move it to your class folder on your Google Drive.
-1. Complete the template.
-1. Submit as usual.
+1. Make sure your journal is up to date.
+1. Click on the share button.
+1. Copy the link. 
+1. Submit the link through Canvas.
 
 {% include submission-boilerplate.html %}
 
