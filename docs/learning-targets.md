@@ -4,11 +4,9 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-By the end of this lesson, you will be able to:
+I can:
 
-* 
-* 
-* 
+* Use a simple form to track my work.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
